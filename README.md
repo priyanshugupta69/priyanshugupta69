@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a passionate software developer from India having experties in backend technologies such as Node.js, express.js, mongodb, docker etc. I also love to code other programing laguages like C++ and Python.
 <!--
 **priyanshugupta69/priyanshugupta69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
