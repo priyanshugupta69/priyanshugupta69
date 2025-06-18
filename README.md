@@ -1,9 +1,8 @@
 ### Hi there 👋
-I am a passionate software developer having experties in backend technologies such as Node.js, express.js, mongodb, docker etc. I also love to code in other programing laguages like C++ and Python.
+I am a passionate software developer having experties in backend design and architecture.
 <!--### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priyanshugupta69&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshugupta69&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **priyanshugupta69/priyanshugupta69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
