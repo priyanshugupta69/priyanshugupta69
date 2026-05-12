@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a passionate software developer having experties in backend design and architecture.
+I am software engineer having experties in backend design and architecture.
 <!--### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priyanshugupta69&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
